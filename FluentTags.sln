@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentTags", "FluentTags\FluentTags.csproj", "{EAA2653A-9750-4D9B-8DF3-8DF941A0630A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.FluentTags", "Tests.FluentTags\Tests.FluentTags.csproj", "{3ECE2AFD-FD39-43CB-AE9F-6E762FC93BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA2653A-9750-4D9B-8DF3-8DF941A0630A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA2653A-9750-4D9B-8DF3-8DF941A0630A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA2653A-9750-4D9B-8DF3-8DF941A0630A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA2653A-9750-4D9B-8DF3-8DF941A0630A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ECE2AFD-FD39-43CB-AE9F-6E762FC93BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECE2AFD-FD39-43CB-AE9F-6E762FC93BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECE2AFD-FD39-43CB-AE9F-6E762FC93BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECE2AFD-FD39-43CB-AE9F-6E762FC93BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
