@@ -4,3 +4,5 @@
 
 /FluentTags/obj/Debug
 /Tests.FluentTags/obj/Debug
+/packages
+*.suo
