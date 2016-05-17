@@ -53,6 +53,12 @@
     <Compile Include="TagTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FluentTags\FluentTags.csproj">
+      <Project>{eaa2653a-9750-4d9b-8df3-8df941a0630a}</Project>
+      <Name>FluentTags</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
